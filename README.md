@@ -1,7 +1,6 @@
-# Dynamic-Web-Scraper-Using-Python-
+# Dynamic Web Scraper Using Python: A Simplified Web Scraping Example 
 A Scraper that can retrieve useful data from dynamic websites and be stored in tabular CSV format.
 
-# Simplified Web Scraping Example 
 ===============================
 
 This is a simplified example of a web scraping project that demonstrates my ability to collect data from websites. 
