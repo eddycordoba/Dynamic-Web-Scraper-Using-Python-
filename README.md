@@ -86,6 +86,11 @@ with open(csv_filename, "w", newline="", encoding="utf-8") as csv_file:
 # Use of dummy data!
 print("This is a sample of the kind of data that can be scraped with the project. Actual data has been anonymized and replaced with fictional data.")
 ```
+
+Below is a photo of a sample of the final results with the scraped data stored in tabular form (CSV, Spreadsheet) and ready to be utilized (Lead generation for businesses in this sample).
+
+
+
 **Note**: This is a sample of the kind of data that can be scraped with the project. Actual data has been anonymized and replaced with fictional data.
 
 ## Features and Functionality
