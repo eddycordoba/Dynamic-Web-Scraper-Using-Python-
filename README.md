@@ -87,7 +87,7 @@ with open(csv_filename, "w", newline="", encoding="utf-8") as csv_file:
 print("This is a sample of the kind of data that can be scraped with the project. Actual data has been anonymized and replaced with fictional data.")
 ```
 
-Below is a photo of a sample of the final results with the scraped data stored in tabular form (CSV, Spreadsheet) and ready to be utilized (Lead generation for businesses in this sample).
+Below is a sample (screenshot) of the final results with the scraped data stored in tabular form (CSV, Spreadsheet) and ready to be utilized (Lead generation for businesses in this sample).
 
 ![Screenshot of Scraped Data displayed in Tabular form (Sheets).](https://github.com/eddycordoba/Dynamic-Web-Scraper-Using-Python-/blob/main/Sample-Data-Screenshot%20.png?raw=true)
 
